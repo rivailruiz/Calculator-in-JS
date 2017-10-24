@@ -1,5 +1,5 @@
 #Calculator
-
+![alt text](![alt text](http://url/to/img.png))
 This is a simple calculator which performs addition, subtraction, multiplication and division.
 
 #How to start
