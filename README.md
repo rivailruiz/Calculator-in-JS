@@ -1,5 +1,5 @@
 #Calculator
-
+![alt text](https://imgur.com/a/JxcpI)
 This is a simple calculator which performs addition, subtraction, multiplication and division.
 
 #How to start
